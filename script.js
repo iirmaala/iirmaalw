@@ -21,19 +21,19 @@ const dataKelas = {
   IPS: {
     kebutuhan: ["Buku Catatan", "LKS", "Alat tulis", "Seragam Sekolah"],
     pr: [
-      "Geografi: Mencari Kata Polystichum Lemmoni.",
+      "Biologii: Membuat Infografis Penyakit.",
       "Matematika: Mengerjakan Tugas Mandiri Bab 2.",
-      "Seni Budaya: Membawa Kanvas Kecil.",
+      "Seni Budaya: Meaningful Hal 25.",
       "Ekonomi: Membuat Laporan Neraca.",
-      "B. Jawa: Membuat Sesorah Pidato atau Pranatacara.",
-      "B. Indonesia: Membuat Vlog Berita."
+      "B. Jawa: Merangkum Wulangan 5.",
+      "B. Indonesia: Membuat Naskah Drama."
     ],
     jadwal: [
-      "Senin: Geografi, Matematika, Seni Budaya, Ekonomi.",
+      "Senin: Geografi, Matematika, Bahasa Indonesia, Seni Budaya, Biologi.",
       "Selasa: Bahasa Jawa, Sejarah, Kemuhammadiyahan, Informatika, Geografi, Ekonomi.",
-      "Rabu: Penjas, Bahasa Arab, Biologi, BK.",
-      "Kamis: Bahasa Inggris, Bahasa Indo, PAI, Sosiologi.",
-      "Jumat: PAI, PPKN, Biologi, Sosiologi."
+      "Rabu: Penjas, Bahasa Arab, PAI, Ekonomi.",
+      "Kamis: Biologi, Bahasa Indonesia, PAI, Bahasa Inggris, Sosiologi.",
+      "Jumat: PPKN, BK, Matematika, Sosiologi."
     ],
     ekstrakulikuler: ["Rabu: Double Track", "Kamis: Hizbul Wathan", "Jumat: Tapak Suci"],
     goals: ["“Kesuksesan adalah hasil dari kerja keras dan ketekunan.” — Ir. Soekarno"]
